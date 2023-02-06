@@ -1,2 +1,2 @@
 # DesignToken
-DeisngToken
+DesignToken
